@@ -6,7 +6,7 @@ metadata:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: akashns990033/simple-python-api #-> Give your deployment name Ex: <your-name-app-name>
+  name: akashns990033-simple-python-api #-> Give your deployment name Ex: <your-name-app-name>
   namespace: akash-ns #-> Give your own namespace with your name
 spec:
   replicas: 3
